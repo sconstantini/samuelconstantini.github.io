@@ -283,7 +283,7 @@ params:
   # Hero section (global: image, button URL, social links)
   hero:
     enable: true
-    image: /images/hero.png
+    image: /images/hero.jpg
     roundImage: true
     bottomImage:
       enable: true
