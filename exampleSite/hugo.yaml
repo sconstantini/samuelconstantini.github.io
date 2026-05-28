@@ -25,11 +25,18 @@ languages:
           "Brazilian SaaS and Enterprise Account Management professional with a strong passion for technology, business, and building things that create real impact. Over the years, I've worked with companies such as Embraer and Accenture, while managing strategic relationships and projects involving major enterprise clients like The Coca-Cola Company, JBS, AB InBev, and Nestlé. 
         
           My background combines enterprise sales, key account management, fintech, SaaS, and market intelligence, always with a builder mindset. I enjoy connecting business strategy, technology, and customer relationships to solve complex problems, create scalable solutions, and drive long-term growth. Comfortable in both executive conversations and technical environments, I'm naturally curious, hands-on, and motivated by innovation and continuous learning."
+
+          My Skills:
+
+          1. Everything CRM: Building structured pipelines (Check my Data Architecture article), fixing chaos and driving revenue. HubSpot, Salesforce and Pipedrive are my preferred platforms.
+          2. Data-Driven and AI Strategy: I use data and analytics to develop small client applications, reduce admin overhead, and improve decision-making.
+          3. High-Stakes Relationship Management: I have experience managing complex relationships with C-level partner executives and key stakeholders in Fortune 500 companies, consistently delivering value and driving growth.
+          4. Multilingual Communication: Fluent in English, Spanish, and Portuguese.
+          5. Cross-Functional Leadership: I have led cross-functional projects across sales, marketing, customer success, and product teams to improve customer satisfaction and retention. 
+
         skills:
-          title: "My tech Stack:"
+          title:
           items:
-            - "teste"
-            - "teste2"
       experience:
         items:
           - company: "Ailet"
